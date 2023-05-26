@@ -43,7 +43,7 @@ module.exports = {
       },
       backgroundImage: {
         'hero-pattern':
-          "url('https://i.ibb.co/MkvLDfb/Rectangle-4389.png')",
+          "url('https://cdn.discordapp.com/attachments/337766477094715405/1111719466930286592/pexels-dana-tentis-370799.jpg')",
       },
     },
   },
