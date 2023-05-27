@@ -42,5 +42,5 @@ For a hands-on experience of the React Syncfusion Dashboard, I have deployed the
 Feel free to immerse yourself in the smooth user interface, test the functionality of the integrated apps, visualize data with our variety of charts, and navigate through the different pages, all within a few clicks.
 
 Dive into the live application here:  
-[React Syncfusion Dashboard App](https://react-syncfusion-app.netlify.app/ecommerce)
+[React Syncfusion Dashboard App](react-syncfusion-app.netlify.app)
 
