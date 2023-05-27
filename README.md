@@ -20,19 +20,19 @@ The dashboard features a dark mode toggle to switch between light and dark theme
 ## Enhanced Sidebar
 
 The template includes a highly interactive and user-friendly sidebar that serves as a primary navigation menu, offering effortless access to different sections of the application. The Sidebar includes:
-
+<br>
 1. **Pages**: This section presents various standalone pages that serve unique functionalities. Each page is carefully crafted with an intuitive layout and user-friendly design to ensure optimal usability and user experience.
-  
+<br>
 <img width="1509" alt="image" src="https://github.com/StevenD24/React-Syncfusion-Dashboard/assets/105379503/4323497a-7c8f-4dea-9f04-7a84881d3108">
-  
+<br>
 2. **Apps**: The Apps section in the sidebar provides easy access to various built-in applications of the dashboard. Each application is designed with a distinct purpose, integrating various Syncfusion components to offer users comprehensive tools and services.
-  
+<br>
 <img width="1508" alt="image" src="https://github.com/StevenD24/React-Syncfusion-Dashboard/assets/105379503/7c76446c-e80d-4bed-83b5-b5cefc9b35ea">
-  
+<br>
 3. **Charts**: The Charts section showcases a wide variety of data visualization options. Users can leverage these charts to effectively represent complex data in a graphical and easy-to-understand manner. The charts are powered by Syncfusion components, ensuring top-notch quality and responsiveness.
-
+<br>
 <img width="1507" alt="image" src="https://github.com/StevenD24/React-Syncfusion-Dashboard/assets/105379503/742f33f3-f763-4f2a-890c-3c1378715c3f">
-  
+<br>
 The sidebar offers a clean layout, smooth navigation, and ensures users can easily navigate between different parts of the dashboard, enhancing productivity and improving user experience.
 
 ## Experience it Live
