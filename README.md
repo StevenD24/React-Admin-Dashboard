@@ -1,6 +1,6 @@
 # React Syncfusion Dashboard
 
-React Syncfusion Dashboard is an intuitive, feature-rich, and easy-to-use admin dashboard template built with React and the Syncfusion React UI library.
+React Syncfusion Dashboard is an intuitive, feature-rich, and easy-to-use admin dashboard template. It's built using the robust Syncfusion React UI library and the versatile Tailwind CSS framework. This powerful combination of technologies ensures a flexible, customizable, and visually appealing interface. 
 
 ## Overview
 
