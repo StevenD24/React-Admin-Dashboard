@@ -32,7 +32,7 @@ The template includes a highly interactive and user-friendly sidebar that serves
 3. **Charts**: The Charts section showcases a wide variety of data visualization options. Users can leverage these charts to effectively represent complex data in a graphical and easy-to-understand manner. The charts are powered by Syncfusion components, ensuring top-notch quality and responsiveness.
 
 <img width="1507" alt="image" src="https://github.com/StevenD24/React-Syncfusion-Dashboard/assets/105379503/742f33f3-f763-4f2a-890c-3c1378715c3f">
-   
+    
 The sidebar offers a clean layout, smooth navigation, and ensures users can easily navigate between different parts of the dashboard, enhancing productivity and improving user experience.
 
 ## Experience it Live
